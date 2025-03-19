@@ -19,9 +19,9 @@ This repository contains an Excel dashboard that provides insights into sales pe
 # 📂 Dataset.
 You can access the dataset used in this project [here](https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!s30e0946afa1e4ec0aa43f0c2dbf0e571&cid=7fb2997ad559975&migratedtospo=true&app=Excel)
 # 🚀 How to Use
-- ** Download the Excel file (.xlsx) from the repository.
-- ** Open it in Microsoft Excel.
-- ** Explore the interactive dashboard and filter data as needed.
+1. Download the Excel file (.xlsx) from the repository.
+2. Open it in Microsoft Excel.
+3. Explore the interactive dashboard and filter data as needed.
 # 📌 About the Project
 This project helps businesses understand sales trends on Blinkit, analyze store performance, and make data-driven decisions for better sales optimization.
 
